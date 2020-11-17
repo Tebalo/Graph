@@ -1,0 +1,11 @@
+Gaborone     Kanye     70   Moleps      50   Muchudi 40    Gabane 30
+Francistown  Ramotswa  468  Moshupa     480  Maun 489 		 
+Moleps 	      Kanye     48   Thamaga     38
+Kanye 	      Lobatse   35   Moleps      48  Gaborone 70 
+Lobatse      Kanye     35   Muchudi     65 
+Muchudi      Gaborone  40   Gabane      58  Maun   790
+Gabane 	      Gaborone  30   Muchudi     58  Thamaga 45 Ramotswa 30
+Maun 	      Ramotswa  810  Francistown 489 Muchudi 790
+Ramotswa     Maun	  810	Moshupa    63 Francistown 468 Gabane 30  Thamaga  60	  
+Moshupa 	Francistown 495   Ramotswa   63   Thamaga 54 
+Thamaga 	Moshupa    54  Moleps  38 Gabane 45   Ramotswa  60
